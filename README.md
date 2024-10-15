@@ -1,6 +1,6 @@
 # Hi, I'm Meraki 👋🏽
 
-##📫 How to reach me: merakiarcana@gmail.com
+📥 📫 How to reach me: merakiarcana@gmail.com
 
 - 👩🏽‍💻 I'm thrilled to showcase the projects I've been working on since beginning my self-taught coding journey in October 2023!</br>
 - 🌱 I’m currently learning HTML, CSS, and JavaScript to build responsive web pages for both desktop and mobile devices.</br>
